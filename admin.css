@@ -10,5 +10,6 @@ body .test{
   height: 100px;
 }
 ul{
-  padding: 0
+  padding: 0;
+  margin:0;
 }
