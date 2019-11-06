@@ -1,2 +1,2 @@
 function math(a,b):
-function c;
+function cd;
